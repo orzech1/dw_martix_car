@@ -1,2 +1,1 @@
-# dw_martix_car
-Prognozowanie cen samochodów
+# Prognowanie cen samochodów
